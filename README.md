@@ -5,9 +5,9 @@ To prepare test data
 2.Save the update details at same location
 
 To run test case
-1. Import project in IDE 
+1. Import project in Eclipse IDE 
 2. In run option select "Run as JUnit Test"
 
 To generate test coverage report
-1.Import project in IDE
+1.Import project in Eclipse IDE
 2.Right click on project-> select "Coverage As" -> select "JUnit Test"
